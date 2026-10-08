@@ -1,0 +1,8 @@
+! Title: Block api-verification.tiktokshops.us
+! Description: 拦截 api-verification.tiktokshops.us 域名
+! Version: 1.0
+! Last modified: 2026-10-09
+!
+! AdGuard Home / AdGuard 规则语法
+! || 表示匹配该域名及其子域名
+||api-verification.tiktokshops.us^
